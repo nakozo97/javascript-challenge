@@ -1,7 +1,7 @@
 # javascript-challenge
 JavaScript and DOM Manipulation
 
-![](/blob/main/UFO-level-1/static/images/simpsons.jpg)
+![](/UFO-level-1/static/images/simpsons.jpg)
 
 ## Background
 
