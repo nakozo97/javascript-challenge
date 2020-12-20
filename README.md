@@ -1,6 +1,8 @@
 # javascript-challenge
 JavaScript and DOM Manipulation
 
+![](/blob/main/UFO-level-1/static/images/simpsons.jpg)
+
 ## Background
 
 I was recently hired on by `ALIENS-R-REAL`, an online website that publicates eye-witness reports of extra-terrestrial sightings and menace events, to assist in loading information onto their website. While at `ALIENS-R-REAL`, I was able to create a dynamically based table that allows `ALIENS-R-REAL`'s users to filter the table data for specific values. This was written with JavaScript, HTML, CSS, and D3.js only. 
