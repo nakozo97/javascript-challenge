@@ -1,6 +1,6 @@
 # javascript-challenge
 
-# JavaScript Homework - JavaScript and DOM Manipulation
+## JavaScript Homework - JavaScript and DOM Manipulation
 
 ![](/UFO-level-1/static/images/simpsons.jpg)
 
