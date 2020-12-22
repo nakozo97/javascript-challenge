@@ -38,11 +38,9 @@ I was recently hired on by `ALIENS-R-REAL,` an online website that publicizes ey
   4. `country`
   5. `shape`
 
-- - -
-
 ### Dataset
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+* [UFO Sightings Data](UFO-level-1/static/js/data.js)
 
 
 End of README.md
