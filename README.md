@@ -6,6 +6,8 @@
 
 ## Background
 
+- - -
+
 I was recently hired on by `ALIENS-R-REAL,` an online website that publicizes eye-witness reports of extra-terrestrial sightings and menace events, as a data analyst to assist in loading eye-witness reports onto their website platform. For this `ALIENS-R-REAL` assignment, I created a dynamically based table that allows website users to filter the table data for specific extra-terrestrial 'date' sightings and events. 
 
 ##### Note: This HTML website was written/edited with JavaScript, HTML, CSS, and D3.js. 
@@ -38,9 +40,10 @@ I was recently hired on by `ALIENS-R-REAL,` an online website that publicizes ey
   4. `country`
   5. `shape`
 
+- - -
+
 ### Dataset
 
 * [UFO Sightings Data](UFO-level-1/static/js/data.js)
-
 
 End of README.md
