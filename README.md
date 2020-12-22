@@ -1,18 +1,27 @@
 # javascript-challenge
-JavaScript and DOM Manipulation
+
+# JavaScript Homework - JavaScript and DOM Manipulation
 
 ![](/UFO-level-1/static/images/simpsons.jpg)
 
 ## Background
 
-I was recently hired on by `ALIENS-R-REAL`, an online website that publicates eye-witness reports of extra-terrestrial sightings and menace events, to assist in loading information onto their website. While at `ALIENS-R-REAL`, I was able to create a dynamically based table that allows `ALIENS-R-REAL`'s users to filter the table data for specific values. This was written with JavaScript, HTML, CSS, and D3.js only. 
+I was recently hired on by `ALIENS-R-REAL,` an online website that publicizes eye-witness reports of extra-terrestrial sightings and menace events, as a data analyst to assist in loading eye-witness reports onto their website platform. For this `ALIENS-R-REAL` assignment, I created a dynamically based table that allows website users to filter the table data for specific extra-terrestrial 'date' sightings and events. 
+
+##### Note: This HTML website was written/edited with JavaScript, HTML, CSS, and D3.js. 
 
 ### Level 1: Automatic Table and Date Search (Required)
 
-* Used the basic [index.html](StarterCode/index.html) file provided.
+* Steps taken to create/edit `ALIENS-R-REAL` website: 
 
-* Used the UFO dataset provided in the form of an array of JavaScript objects, to write code that appends a table to our web page and then added new rows of data for each UFO sighting.
+  * Used the raw [index.html](StarterCode/index.html) file provided to display website. 
 
-  * There is a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
+  * Used the JavaScript UFO dataset provided in an array to write a function that appends the table elements to the `ALIENS-R-REAL` web page. 
+  
+  * Added new rows of extra-terrestrial data for each UFO sighting.
 
-* Used a date form in my HTML document and wrote JavaScript code that will list events and search through the `date/time` column to find rows that match the user's input.
+  * Filtered website columns with HTML DOM Buton Object that can list events and search through the rows that match the user's input:  
+  
+    `date/time`, `city`, `state`, `country`, `shape`, `comment` . 
+
+End of README.md
