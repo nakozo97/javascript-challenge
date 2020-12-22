@@ -26,4 +26,23 @@ I was recently hired on by `ALIENS-R-REAL,` an online website that publicizes ey
 
 ![](/UFO-level-1/static/images/homepage.jpg)
 
+### Level 2: Multiple Search Categories (Optional)
+
+* Completed all of Level 1 criteria.
+
+* Used multiple `input` tags to write JavaScript code so the user can use multiple filters and search for UFO sightings using the following criteria based on the table columns:
+
+  1. `date/time`
+  2. `city`
+  3. `state`
+  4. `country`
+  5. `shape`
+
+- - -
+
+### Dataset
+
+* [UFO Sightings Data](StarterCode/static/js/data.js)
+
+
 End of README.md
