@@ -20,8 +20,10 @@ I was recently hired on by `ALIENS-R-REAL,` an online website that publicizes ey
   
   * Added new rows of extra-terrestrial data for each UFO sighting.
 
-  * Filtered website columns with HTML DOM Buton Object that can list events and search through the rows that match the user's input:  
+  * Filtered website columns with an HTML DOM Buton Object that can list events and search through the rows that match the user's input:  
   
-    `date/time`, `city`, `state`, `country`, `shape`, `comment` . 
+    `date/time`, `city`, `state`, `country`, `shape`, `comment` .
+
+![](/UFO-level-1/static/images/homepage.jpg)
 
 End of README.md
