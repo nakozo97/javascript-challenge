@@ -16,7 +16,7 @@ I was recently hired on by `ALIENS-R-REAL,` an online website that publicizes ey
 
 * Steps taken to create/edit `ALIENS-R-REAL` website: 
 
-  * Used the raw [index.html](StarterCode/index.html) file provided to display website. 
+  * Used the raw [index.html](UFO-level-1/index.html) file provided to display website. 
 
   * Used the JavaScript UFO dataset provided in an array to write a function that appends the table elements to the `ALIENS-R-REAL` web page. 
   
